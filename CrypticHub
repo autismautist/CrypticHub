@@ -1,0 +1,30 @@
+--[[
+ $$$$$$\                                           $$\     $$\   $$\           $$\       
+$$  __$$\                                          $$ |    $$ |  $$ |          $$ |      
+$$ /  \__| $$$$$$\   $$$$$$\  $$\   $$\  $$$$$$\ $$$$$$\   $$ |  $$ |$$\   $$\ $$$$$$$\  
+$$ |      $$  __$$\ $$  __$$\ $$ |  $$ |$$  __$$\\_$$  _|  $$$$$$$$ |$$ |  $$ |$$  __$$\ 
+$$ |      $$ |  \__|$$ /  $$ |$$ |  $$ |$$ /  $$ | $$ |    $$  __$$ |$$ |  $$ |$$ |  $$ |
+$$ |  $$\ $$ |      $$ |  $$ |$$ |  $$ |$$ |  $$ | $$ |$$\ $$ |  $$ |$$ |  $$ |$$ |  $$ |
+\$$$$$$  |$$ |      $$$$$$$  |\$$$$$$$ |$$$$$$$  | \$$$$  |$$ |  $$ |\$$$$$$  |$$$$$$$  |
+ \______/ \__|      $$  ____/  \____$$ |$$  ____/   \____/ \__|  \__| \______/ \_______/ 
+                    $$ |      $$\   $$ |$$ |                                             
+                    $$ |      \$$$$$$  |$$ |                                             
+                    \__|       \______/ \__|                                             
+]]--
+if game.PlaceId == 2809202155 then --//yba
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/autismautist/CrypticHub/main/yba"))
+elseif game.PlaceId == 142823291 then --//mm2
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/autismautist/CrypticHub/main/mm2"))
+elseif game.PlaceId == 1962086868 then  --//tower of hell
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/autismautist/CrypticHub/main/toh"))
+elseif game.PlaceId == 4042427666 then  --//anime fighting sim
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/autismautist/CrypticHub/main/afs"))
+elseif game.PlaceId == 286090429 then  --//arsenal
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/autismautist/CrypticHub/main/arsenal"))
+elseif game.PlaceId == 2753915549 then  --//blox fruits
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/autismautist/CrypticHub/main/blxfruit"))
+elseif game.PlaceId == 4855457388 then  --//demonfall
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/autismautist/CrypticHub/main/demonfall"))
+else --//universal
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/autismautist/CrypticHub/main/universal"))
+end
