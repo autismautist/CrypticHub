@@ -11,9 +11,7 @@ $$ |  $$\ $$ |      $$ |  $$ |$$ |  $$ |$$ |  $$ | $$ |$$\ $$ |  $$ |$$ |  $$ |$
                     $$ |      \$$$$$$  |$$ |                                             
                     \__|       \______/ \__|                                             
 ]]--
-if game.PlaceId == 2809202155 then --//yba
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/autismautist/CrypticHub/main/yba"))
-elseif game.PlaceId == 142823291 then --//mm2
+if game.PlaceId == 142823291 then --//mm2
     loadstring(game:HttpGet("https://raw.githubusercontent.com/autismautist/CrypticHub/main/mm2"))
 elseif game.PlaceId == 1962086868 then  --//tower of hell
     loadstring(game:HttpGet("https://raw.githubusercontent.com/autismautist/CrypticHub/main/toh"))
