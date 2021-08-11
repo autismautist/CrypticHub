@@ -12,16 +12,23 @@ $$ |  $$\ $$ |      $$ |  $$ |$$ |  $$ |$$ |  $$ | $$ |$$\ $$ |  $$ |$$ |  $$ |$
                     $$ |      \$$$$$$  |$$ |                                             
                     \__|       \______/ \__|                                             
 ]]--
+print("loadstring2")
 if game.PlaceId == 142823291 then --//mm2
     loadstring(game:HttpGet("https://raw.githubusercontent.com/autismautist/CrypticHub/main/mm2"))
+    print("loadstring3")
 elseif game.PlaceId == 4042427666 then  --//anime fighting sim
     loadstring(game:HttpGet("https://raw.githubusercontent.com/autismautist/CrypticHub/main/afs"))
+    print("loadstring4")
 elseif game.PlaceId == 286090429 then  --//arsenal
     loadstring(game:HttpGet("https://raw.githubusercontent.com/autismautist/CrypticHub/main/arsenal"))
+    print("loadstring5")
 elseif game.PlaceId == 2753915549 then  --//blox fruits
     loadstring(game:HttpGet("https://raw.githubusercontent.com/autismautist/CrypticHub/main/blxfruit"))
+    print("loadstring6")
 elseif game.PlaceId == 4855457388 then  --//demonfall
     loadstring(game:HttpGet("https://raw.githubusercontent.com/autismautist/CrypticHub/main/demonfall"))
+    print("loadstring7")
 else --//universal
     loadstring(game:HttpGet("https://raw.githubusercontent.com/autismautist/CrypticHub/main/universal"))
+    print("loadstring8")
 end
