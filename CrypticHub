@@ -13,8 +13,6 @@ $$ |  $$\ $$ |      $$ |  $$ |$$ |  $$ |$$ |  $$ | $$ |$$\ $$ |  $$ |$$ |  $$ |$
 ]]--
 if game.PlaceId == 142823291 then --//mm2
     loadstring(game:HttpGet("https://raw.githubusercontent.com/autismautist/CrypticHub/main/mm2"))
-elseif game.PlaceId == 1962086868 then  --//tower of hell
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/autismautist/CrypticHub/main/toh"))
 elseif game.PlaceId == 4042427666 then  --//anime fighting sim
     loadstring(game:HttpGet("https://raw.githubusercontent.com/autismautist/CrypticHub/main/afs"))
 elseif game.PlaceId == 286090429 then  --//arsenal
